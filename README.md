@@ -38,3 +38,10 @@ Levaremos em conta os seguintes critérios:
   - A API pode ser HTTP, Restful, WSDL/SOAP, HATEOAS ou gRCP mas deverá ser documentado no [README.md](./README.md) como executar/compilar/empacotar o projeto e quais os endpoints solicitados nos requisitos acima. 
   - A versão do Java pode ser atualizada para 11 ou 14.
   - Não existe restrição de framework (EE, Spring, Quarkus etc) mas será melhor avaliado se justificado no [README.md](./README.md) os motivos da decisão.
+
+
+# Entrega Felipe Alves   
+
+## https://github.com/felipe-8847
+
+### olá, Eu não entendi a proposta inicial do teste enviei email para os contatos que foi informado mas não obtive uma resposta, indico esse projeto caso queira avaliar https://github.com/felipe-8847/Projeto-integrador   esta hospedado no heroku site  https://vemdaterrabrasil.netlify.app/#/inicio   basta criar uma conta ( adm ou cliente) e  logar para ter acesso as funcionalidades, adm pode  cadastrar consultar alterar e deletar produtos e categorias   já o   cliente tem acesso ao site normalmente e pode logar para uma futura atualização envolvendo outras funcionalidades. 
