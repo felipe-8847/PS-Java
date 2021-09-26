@@ -1,5 +1,6 @@
 package br.com.supera.game.store;
 
+
 public class Carrinho {
 	
 		
@@ -21,5 +22,4 @@ public class Carrinho {
 		return total = subTotal + frete;
 	}
 	
-
 }

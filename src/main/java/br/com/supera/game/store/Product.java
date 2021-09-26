@@ -9,7 +9,7 @@ import javax.persistence.Id;
 @Entity
 public class Product {
 
-   @Id
+@Id
    @GeneratedValue
    public long id;
 
@@ -79,6 +79,10 @@ public class Product {
 			this.image = image;
 		}
 
-   
+		  @Override
+			public String toString() {
+				return "Product [id=" + id + ", name=" + name + ", price=" + price + ", score=" + score + ", image=" + image
+						+ "]";
+			}
    
 }

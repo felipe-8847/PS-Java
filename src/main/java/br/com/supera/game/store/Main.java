@@ -13,7 +13,11 @@ public class Main {
 		List<Product> lista = new ArrayList<Product>();
 
 		
-		carrinho.calcCarrinho(new Product());
+		lista.add(new Product("felipe",10.00,"teste"));
+		lista.add(new Product("alves",10.00,"jljjljl"));
+
+		
+		System.out.println(lista);
 
 	}
 
